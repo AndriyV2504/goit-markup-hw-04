@@ -138,6 +138,9 @@ img {
 
 .effective {
     background-color: #2E2F42;
+    background-image: url(../images/people-office\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     padding: 188px 0;
 }
 
