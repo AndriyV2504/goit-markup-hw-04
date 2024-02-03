@@ -427,16 +427,11 @@ img {
     background-color: #2E2F42;
     padding: 100px 0;
     display: flex;
-    gap: 120px;
     flex-shrink: 0;
     align-items: baseline;
 }
 
-.container footer {
-    display: flex;
-}
-
-.container footer-logomain {
+.footer-logomain {
     margin-right: 120px;
 }
 
@@ -466,7 +461,6 @@ img {
 
 .container footer-social {
     background-position: center;
-    display: flex;
 }
 
 .footer-social-text {
