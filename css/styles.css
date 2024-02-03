@@ -433,11 +433,10 @@ img {
 }
 
 .container footer {
-    
+    display: flex;
 }
 
 .container footer-logomain {
-    display: flex;
     margin-right: 120px;
 }
 
@@ -467,7 +466,6 @@ img {
 
 .container footer-social {
     background-position: center;
-    margin-left: 120px;
     display: flex;
 }
 
