@@ -425,10 +425,13 @@ img {
     gap: 120px;
 }
 
+.container footer {
+    align-items: baseline;
+    margin-right: 120px;
+}
+
 .container footer-logomain {
     display: flex;
-    align-items: baseline;
-    margin-right: 120px
 }
 
 .footer-logo {
