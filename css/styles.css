@@ -425,6 +425,11 @@ img {
     gap: 120px;
 }
 
+.container footer-logomain {
+    display: flex;
+    align-items: baseline;
+}
+
 .footer-logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
@@ -456,16 +461,16 @@ img {
 }
 
 .footer-social-text {
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin-bottom: 16px;
 }
 
 .footer-icon-list {
     display: flex;
-    justify-content: center;
     gap: 16px;
     margin-top: 16px;
 }
